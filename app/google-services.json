@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6709061514",
+    "firebase_url": "https://pickapp-60c4f.firebaseio.com",
+    "project_id": "pickapp-60c4f",
+    "storage_bucket": "pickapp-60c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6709061514:android:e46f7d09781bd934968a73",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6709061514-6likl6ukfqs80f6l2ijub8vj9f3r60ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "b0b1ced87dbc608e9467df41bec0e125ef4a6555"
+          }
+        },
+        {
+          "client_id": "6709061514-lc1f30d5rf2o4va76i9vj00c09j6he8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAta6LUV4kLwkcMNlKYvNlrS42C39UzqGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6709061514-lc1f30d5rf2o4va76i9vj00c09j6he8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

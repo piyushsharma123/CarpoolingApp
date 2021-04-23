@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".otp_page"
+    android:background="@drawable/gradient_loginpage">
+
+    <EditText
+        android:id="@+id/otp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="100dp"
+        android:layout_centerHorizontal="true"
+        android:hint="Enter The OTP"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:shadowColor="#ffffff"
+        android:padding="5dip"
+        android:background="@drawable/edittext_boxlayout">
+
+    </EditText>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="256dp"
+        android:layout_height="47dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="260dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/blue_round"
+        android:text="Submit">
+    </Button>
+
+    <TextView
+        android:id="@+id/resend"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_marginTop="310dp"
+        android:layout_marginBottom="200dp"
+        android:layout_centerHorizontal="true"
+        android:text="Resend OTP?"
+        android:textColor="#ffffff">
+
+    </TextView>
+</RelativeLayout>
